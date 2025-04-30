@@ -1,6 +1,6 @@
 # sayantan-verse
 A curated repository of development projrcts and code samples by Ssyantan Mondal , Showcasing skills in technology's and cleen code practice
-# Sayantan Mondal –  Development Projects
+# Sayantan Mondal(developer) –  Development Projects
 
 This repository showcases a collection of professionally developed web projects by Sayantan Mondal. Each project emphasizes clean architecture, responsive design, and best practices in frontend development using HTML, CSS, and JavaScript.
 
